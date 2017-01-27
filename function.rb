@@ -3,3 +3,5 @@ def a_function
 end
 
 string = "a string"
+
+# a cmment
